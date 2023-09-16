@@ -13,7 +13,7 @@ So, the normal version resembles the one seen in the Instagram post, while the m
 
 | **Modern Version** | **Normal Version** |
 |:---:|:---:|
-| <img src="modern.gif" height="270"> | <img src="normal.gif" height="270"> |
+| <img src="modern.gif" height="290"> | <img src="normal.gif" height="290"> |
 | [View Code](modern.py) | [View Code](normal.py) |
 
 </div>
